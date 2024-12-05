@@ -20,6 +20,7 @@ varv = "red"
 
 turtle.speed(0) # reguleeri 1-9
 turtle.color(varv)
+
 #kolmnurk1
 turtle.forward(kylje_pikkus) #fd, pikslites
 turtle.left(nurk) #lt, rt
@@ -27,7 +28,6 @@ turtle.forward(kylje_pikkus) #fd, pikslites
 turtle.left(nurk) #lt, rt
 turtle.forward(kylje_pikkus) #fd, pikslites
 turtle.left(nurk) #lt, rt
-
 turtle.penup()
 turtle.goto(kylje_pikkus*1.5,0)
 turtle.pendown()
@@ -39,7 +39,6 @@ turtle.forward(kylje_pikkus) #fd, pikslites
 turtle.left(nurk) #lt, rt
 turtle.forward(kylje_pikkus) #fd, pikslites
 turtle.left(nurk) #lt, rt
-
 turtle.penup()
 turtle.goto(kylje_pikkus*3,0)
 turtle.pendown()
