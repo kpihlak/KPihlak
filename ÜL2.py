@@ -10,6 +10,10 @@ Loo värvilised 50px olümpiarõngad (sinine, must, punane, kollane, roheline)
 Joone paksus 6
 Kiirus 0
 """
+#akna seaded
+aken = turtle.Screen()
+aken.setup(width=600,height=400)
+aken.title("Olümpiarõngad ja kp")
 
 #sinine
 turtle.speed(0)
