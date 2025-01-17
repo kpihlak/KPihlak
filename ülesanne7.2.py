@@ -43,5 +43,4 @@ print(f"Keskmine temp on: {summa/kokku:0.2f}")
 print(f"Temp -20 esineb: {kordused} korda")
 print(jtemp)
 
-git config --global user.email "kartpihlak@hkhk.edu.ee"
-git config --global user.name "kartpihlak"
+
